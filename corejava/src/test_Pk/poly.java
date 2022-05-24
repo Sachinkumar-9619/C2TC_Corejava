@@ -1,7 +1,6 @@
 package test_Pk;
-
 public class poly {
-	void add(int x,int y)
+	private void add(int x,int y)
 	{
 		System.out.println("add 2 num"+(x+y));
 	}
